@@ -34,7 +34,7 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
 
         <p>
         <hr className="my-2" />
-        CA <a href="https://etherscan.io/token/#" >0x</a>
+        CA <a href="https://etherscan.io/token/#0xE0c74e2D189Bf5299D8CE815e91B99B22f51E2B0" >0xE0c74e2D189Bf5299D8CE815e91B99B22f51E2B0</a>
         <hr className="my-2" />
         <a href="#" >Dextools</a>
         </p>
