@@ -20,10 +20,10 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
           Pepejack
         </h1>
         <h3 className="display-5 p-4 text-center">
-          Join Telegram, Play Pepejack and Win 
+          Join Telegram, Play Pepejack and Win
         </h3>
 
-        <img src="images/pepejack.png" width="40%" />
+        <img src="images/pepejack.gif" width="100%" />
                     <p className="p-2">
 
                     <a href="https://x.com/pepejackcoin" ><i class="fab fa-twitter large-icon"></i></a>
