@@ -36,7 +36,7 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
         <hr className="my-2" />
         CA <a href="https://etherscan.io/token/#0xE0c74e2D189Bf5299D8CE815e91B99B22f51E2B0" >0xE0c74e2D189Bf5299D8CE815e91B99B22f51E2B0</a>
         <hr className="my-2" />
-        <a href="#" >Dextools</a>
+        <a href="https://www.dextools.io/app/en/ether/pair-explorer/0x3af5ce47fd41ae868eb8c27ee2f3a24481ed6ab1" >Dextools</a>
         </p>
 
          <hr className="my-2" />
