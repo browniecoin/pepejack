@@ -23,7 +23,7 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
           Play Pepe Black Jack and Win PepeJack Coin
         </h3>
 
-        <img src="images/pepejack.png" width="100%" >
+        <img src="images/pepejack.png" width="100%" />
                     <p className="p-2">
 
                     <a href="https://x.com/pepejackcoin" ><i class="fab fa-twitter large-icon"></i></a>
